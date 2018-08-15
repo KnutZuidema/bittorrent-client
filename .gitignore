@@ -1,0 +1,6 @@
+venv
+venv-pycharm
+__pycache__
+.vscode
+.idea
+test.py
